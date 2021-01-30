@@ -1,11 +1,8 @@
 # Solar-Cell-Segmentation-Dataset
 <p float="left">
-  <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Overview-elpv-dataset.png" width="800px" height="auto">
-  <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Overview-ground-truth-elpv-dataset.png" width="800px" height="auto"> 
+  <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Overview-elpv-dataset.png" width="800px" height="auto"> <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Overview-ground-truth-elpv-dataset.png" width="800px" height="auto"> 
 </p>
 
-<img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Overview-elpv-dataset.png" width="800px" height="auto">
-<img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Overview-ground-truth-elpv-dataset.png" width="800px" height="auto">
 
 # Citing
 Cite the following publications to use dataset for education or scientific research:
