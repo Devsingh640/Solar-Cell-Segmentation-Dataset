@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/org_100_100.png" width="500px" height="auto">
-  <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/org_100_100.png" width="500px" height="auto"> 
+  <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/grt_100_100.png" width="500px" height="auto"> 
 </p>
 
 <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Overview-elpv-dataset.png" width="500px" height="auto">
