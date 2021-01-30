@@ -7,10 +7,10 @@
 <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Overview-ground-truth-elpv-dataset.png" width="800px" height="auto">
 
 
-<p float="left">
-  <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Figure%202020-12-12%20004640%20(1).png" width="800px" height="auto">
-  <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Figure%202020-12-12%20004640%20(0).png" width="800px" height="auto"> 
-</p>
+<h6><p align="center">Some samples from Solar-Cell-Segmentation-Dataset.</p></h6>
+<img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Figure%202020-12-12%20004640%20(1).png" width="800px" height="auto">
+<img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Figure%202020-12-12%20004640%20(0).png" width="800px" height="auto"> 
+
 
 # Citing
 Cite the following publications to use dataset for education or scientific research:
