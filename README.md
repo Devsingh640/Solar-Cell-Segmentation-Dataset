@@ -1,6 +1,6 @@
 # Solar-Cell-Segmentation-Dataset
 
-<h1><p align="center"> Overview image of elpv-dataset.</p></h1>
+<h6><p align="center"> Overview image of elpv-dataset.</p></h6>
 <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Overview-elpv-dataset.png" width="800px" height="auto">
 
 <p align="center">Overview image of respective ground truth for elpv dataset.</p>
