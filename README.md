@@ -4,8 +4,8 @@
 <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Overview-ground-truth-elpv-dataset.png" width="800px" height="auto"> 
 
 <p float="left">
-  <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/org_100_100.png" width="300px" height="auto">
-  <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/grt_100_100.png" width="300px" height="auto"> 
+  <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/org_100_100.png" width="400px" height="auto">
+  <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/grt_100_100.png" width="400px" height="auto"> 
 </p>
 
 
