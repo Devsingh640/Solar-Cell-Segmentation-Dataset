@@ -1,13 +1,13 @@
 # Solar-Cell-Segmentation-Dataset
 
-<h6><p align="center"> Overview image of elpv-dataset.</p></h6>
+<h3><p align="center"> Overview image of elpv-dataset.</p></h3>
 <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Overview-elpv-dataset.png" width="800px" height="auto">
 
-<h6><p align="center">Overview image of respective ground truth for elpv dataset.</p></h6>
+<h3><p align="center">Overview image of respective ground truth for elpv dataset.</p></h3>
 <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Overview-ground-truth-elpv-dataset.png" width="800px" height="auto">
 
 
-<h6><p align="center">Some samples from Solar-Cell-Segmentation-Dataset.</p></h6>
+<h3><p align="center">Some samples from Solar-Cell-Segmentation-Dataset.</p></h3>
 <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Figure%202020-12-12%20004640%20(1).png" width="800px" height="auto">
 <img src="https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset/blob/main/Documents/Overview%20Images/Figure%202020-12-12%20004640%20(0).png" width="800px" height="auto"> 
 
@@ -28,4 +28,5 @@ Creative Commons License
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 For commercial use, please contact us for further information.
+
 e-mail: devsingh640@gmail.com
