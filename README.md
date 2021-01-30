@@ -1,4 +1,9 @@
 # Solar-Cell-Segmentation-Dataset
 
-![Original Image](/Solar-Cell-Segmentation-Dataset/Documents/Overview Images/Overview-elpv-dataset.png
-)
+
+<img
+src=“Solar-Cell-Segmentation-Dataset/Documents/Overview Images/Overview-elpv-dataset.png”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
