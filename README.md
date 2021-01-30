@@ -11,8 +11,11 @@ Deitsch, S.; Buerhop-Lutz, C.; Maier, A. K.; Gallwitz, F. & Riess, C. Segmentati
 
 Deitsch, S.; Christlein, V.; Berger, S.; Buerhop-Lutz, C.; Maier, A.; Gallwitz, F. & Riess, C. Automatic classification of defective photovoltaic module cells in electroluminescence images. Solar Energy, Elsevier BV, 2019, 185, 455-468. DOI: 10.1016/j.solener.2019.02.067
 
+https://github.com/Devsingh640/Solar-Cell-Segmentation-Dataset
+
 # License
 Creative Commons License
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 For commercial use, please contact us for further information.
+e-mail: devsingh640@gmail.com
